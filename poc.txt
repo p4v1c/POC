@@ -1,8 +1,9 @@
 REM Payload made by P4v1c
 DELAY 500
 GUI r
-DELAY 500
+DELAY 1250
 STRING powershell
 ENTER
-DELAY 500
+DELAY 750
 STRING payload
+ENTER
